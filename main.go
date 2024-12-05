@@ -1,4 +1,4 @@
-// yes, this code is 99% authored by ChatGPT
+// yes, 99% of this code was authored by ChatGPT
 package main
 
 import (
